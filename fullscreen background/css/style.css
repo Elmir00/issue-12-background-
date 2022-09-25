@@ -1,0 +1,10 @@
+.box{
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/526/141/244/electric-electric-guitars-guitars-music-wallpaper-preview.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 600px 500px;
+}
+
